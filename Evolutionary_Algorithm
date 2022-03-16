@@ -1,3 +1,5 @@
+#Problem Statement: use an evoutionary algorithm with both crossover and mutation to maximize the function f(x) = sin(x*pi/256) over the integers in [0,255]
+
 import statistics
 import math
 import random
