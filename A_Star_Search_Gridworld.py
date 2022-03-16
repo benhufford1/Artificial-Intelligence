@@ -1,5 +1,7 @@
+#Use the breadth_first_search algorithm to solve a given windy gridworld
 
-from  search_algorithm_09012021 import *
+
+from  breadth_first_search import *
 
 class Windy_State(Problem_State): 
     def __init__(self, state): 
