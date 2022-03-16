@@ -1,3 +1,5 @@
+#Problem Statement: design a Q-learning agent that will learn a gridworld via random walks and then update the q-values associated with each state-action pairing in the gridworld.
+
 import numpy as np
 
 rows = 24
