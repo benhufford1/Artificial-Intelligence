@@ -1,3 +1,5 @@
+#Problem Statement: use a k-means-clustering algorithm to group geographical data for earthquakes 
+
 import numpy as np
 import matplotlib.pyplot as plt
 import math 
