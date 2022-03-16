@@ -1,3 +1,5 @@
+#Problem Statement: create a breadth-first search algorithm that can be used on various tree-style problems
+
 
 visited_states = {}
 
@@ -98,19 +100,3 @@ class Problem_State: #These 4 functions depend on the actual problem in hand
     def equals(self,state): 
         abstract()
         
-
-                        
-
-
-
-
-    
-larry = Queue()
-
-larry.enqueue('suitcase')
-print(larry)
-
-
-
-node = Node('null', None, 'move', 0 ) 
-print(node)
